@@ -1,0 +1,17 @@
+{
+  "name": "polygon-catsmart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.10.0",
+    "fetch": "^1.1.0",
+    "ts-node": "^10.9.2"
+  }
+}
