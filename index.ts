@@ -574,8 +574,7 @@ const abi = [
 // Edit with you info
 const account = {
   name: "You name", // Tên điền gì cũng được
-  privateKey:
-    "02e1fa1a7595a27b56b2f4b05727be13e844f5aacbf841d0b5b34dbb7a98a4e3", // private key của ví anh em
+  privateKey: "", // private key của ví anh em
   ids: [1074275123], // id của mèo anh em, anh em có thể nuôi nhiều con để được cộng dồn điểm
 };
 
